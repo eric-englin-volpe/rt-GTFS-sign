@@ -91,10 +91,10 @@ This project contains the source code to create your own Washington DC Metro sig
 #########################
 
 # WIFI Network SSID
-'wifi_ssid': 'Grindr Pickup Zone',
+'wifi_ssid': 'network_name',
 
 # WIFI Password
-'wifi_password': 'MyMetroBoardBringsTheBoisToTheNavyYard',
+'wifi_password': 'password',
 
 #########################
 # Metro Configuration   #
